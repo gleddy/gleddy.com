@@ -1,0 +1,47 @@
+body {
+background-attachment: fixed;
+background: #f2f2f2;
+margin: 0;
+background: #ddd url('../img/bg-body.png') repeat 0 0;
+}
+h1 {
+color: #c6c6b5;
+padding: .2em;
+display: block;
+overflow: hidden;
+height: .2em;
+width: auto;
+padding-bottom: .3em;
+border-bottom: 7px solid rgba(0,0,0,.1);
+text-shadow: -1px -1px #fff;
+font: bold 12em/.8em "chaparral-pro-caption-1","chaparral-pro-caption-2", "Helvetica Neue", Arial, sans-serif;
+}
+p {
+color: #334217;
+padding: 0 .6em;
+position: relative;
+top: .2em;
+text-shadow: 1px 1px #fff;
+font: bold 4em/1.2em "chaparral-pro-caption-1","chaparral-pro-caption-2", "Helvetica Neue", Arial, sans-serif;
+}
+a {
+text-decoration: none;
+color: #1942ac;
+}
+h2 {
+margin-top: .2em;
+color: #c6c6b5;
+position: relative;
+display: block;
+overflow: hidden;
+height: 1em;
+padding: 0 .2em;
+width: auto;
+border-top: 7px solid rgba(0,0,0,.1);
+text-shadow: 1px 1px #fff;
+font: bold 12em/.8em "chaparral-pro-caption-1","chaparral-pro-caption-2", "Helvetica Neue", Arial, sans-serif;
+}
+h2 span {
+position: absolute;
+top: -.5em;
+}
